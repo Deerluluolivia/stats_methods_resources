@@ -1,0 +1,26 @@
+---
+title: "stats_method_resources"
+author: "Lu Han"
+date: "May 5, 2018"
+output: html_document
+---
+
+#### this document contains all the stats and r programming resources I find helpful for my learning.  
+
+##Statistical Methods
+### principal component ananlysis
+[PCA essentials](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/)
+
+[understanding PCA using shiny & stack overflow data](https://www.rstudio.com/resources/videos/understanding-pca-using-shiny-and-stack-overflow-data/)
+
+[tutorial on PCA](https://www.cs.cmu.edu/~elaw/papers/pca.pdf)
+
+[PCA on stack overflow](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+
+[Very simple intro video to PCA](https://www.youtube.com/watch?v=_UVHneBUBW0&feature=youtu.be)
+
+## R Programming
+
+### purrr
+[intro purrr tutorial](https://github.com/jenniferthompson/RLadiesIntroToPurrr)
+
